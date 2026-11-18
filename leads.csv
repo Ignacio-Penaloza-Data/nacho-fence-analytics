@@ -1,0 +1,127 @@
+lead_id,customer_id,requested_date,fence_type,status,lost_reason
+L001,C042,2025-03-29,Steel,Quoted,
+L002,C025,2025-11-26,Steel,Lost,Price
+L003,C040,2025-03-17,Gate/post repair,Won,
+L004,C019,2025-08-26,Wood privacy,Lost,Price
+L005,C029,2025-06-25,Wood privacy,Lost,No response
+L006,C004,2025-11-02,Aluminum,Won,
+L007,C010,2025-09-13,Steel,Won,
+L008,C044,2025-07-09,Wood privacy,Won,
+L009,C040,2026-02-01,Aluminum,Lost,Went with another company
+L010,C015,2026-04-23,Vinyl privacy,Lost,Price
+L011,C030,2025-10-27,Wood privacy,Lost,Timing
+L012,C023,2026-08-30,Aluminum,Won,
+L013,C045,2025-09-19,Vinyl privacy,Won,
+L014,C013,2026-02-03,Chain link,Lost,Timing
+L015,C037,2026-01-08,Vinyl privacy,Quoted,
+L016,C002,2026-02-15,Steel,Won,
+L017,C044,2025-02-25,Aluminum,Quoted,
+L018,C019,2025-08-29,Chain link,Lost,Went with another company
+L019,C040,2025-09-19,Gate/post repair,Quoted,
+L020,C044,2025-05-26,Gate/post repair,Quoted,
+L021,C003,2025-11-18,Steel,Lost,No response
+L022,C009,2025-04-08,Gate/post repair,Lost,Timing
+L023,C012,2025-07-30,Steel,Won,
+L024,C024,2026-07-03,Vinyl privacy,Won,
+L025,C011,2025-09-26,Vinyl privacy,Lost,No response
+L026,C008,2026-04-30,Chain link,Lost,Timing
+L027,C036,2026-01-15,Aluminum,Won,
+L028,C001,2025-10-03,Aluminum,Won,
+L029,C024,2025-10-01,Vinyl privacy,Quoted,
+L030,C007,2025-09-02,Steel,Won,
+L031,C036,2025-12-07,Gate/post repair,Lost,Price
+L032,C041,2026-04-26,Gate/post repair,Lost,Timing
+L033,C008,2025-05-29,Wood privacy,Won,
+L034,C020,2026-05-25,Chain link,Won,
+L035,C035,2025-05-24,Vinyl privacy,Won,
+L036,C043,2026-07-13,Gate/post repair,Won,
+L037,C010,2026-03-06,Steel,Lost,Timing
+L038,C018,2025-02-08,Aluminum,Lost,Timing
+L039,C016,2026-01-12,Gate/post repair,Won,
+L040,C024,2026-07-17,Vinyl privacy,Quoted,
+L041,C004,2026-02-17,Wood privacy,Won,
+L042,C030,2025-04-09,Gate/post repair,Quoted,
+L043,C039,2025-01-27,Vinyl privacy,Won,
+L044,C016,2025-05-14,Wood privacy,Lost,Went with another company
+L045,C038,2025-08-15,Vinyl privacy,Lost,Went with another company
+L046,C039,2025-01-08,Chain link,Won,
+L047,C009,2026-07-13,Chain link,Won,
+L048,C008,2025-02-01,Vinyl privacy,Won,
+L049,C016,2026-08-31,Chain link,Won,
+L050,C017,2025-02-28,Aluminum,Won,
+L051,C034,2025-05-02,Aluminum,Lost,No response
+L052,C033,2026-09-05,Steel,Won,
+L053,C015,2026-09-27,Gate/post repair,Won,
+L054,C034,2025-11-10,Wood privacy,Won,
+L055,C004,2026-05-11,Gate/post repair,Lost,Price
+L056,C032,2026-04-05,Wood privacy,Won,
+L057,C021,2026-09-20,Chain link,Won,
+L058,C018,2026-10-07,Gate/post repair,Quoted,
+L059,C021,2026-01-31,Vinyl privacy,Quoted,
+L060,C030,2026-06-07,Gate/post repair,Lost,Price
+L061,C042,2026-07-24,Aluminum,Lost,Timing
+L062,C015,2026-03-05,Aluminum,Won,
+L063,C026,2026-03-07,Aluminum,Lost,No response
+L064,C043,2025-09-24,Chain link,Won,
+L065,C044,2026-05-06,Wood privacy,Won,
+L066,C006,2026-03-24,Gate/post repair,Won,
+L067,C024,2025-05-19,Steel,Quoted,
+L068,C036,2025-12-09,Vinyl privacy,Lost,Timing
+L069,C004,2025-10-27,Wood privacy,Lost,Went with another company
+L070,C010,2026-05-14,Wood privacy,Won,
+L071,C023,2026-07-29,Vinyl privacy,Won,
+L072,C037,2025-08-25,Steel,Quoted,
+L073,C040,2026-07-30,Gate/post repair,Won,
+L074,C045,2025-10-06,Vinyl privacy,Won,
+L075,C045,2025-11-18,Wood privacy,Lost,Went with another company
+L076,C010,2026-08-08,Chain link,Lost,Price
+L077,C006,2026-07-03,Aluminum,Won,
+L078,C030,2025-12-21,Vinyl privacy,Won,
+L079,C021,2026-08-10,Chain link,Lost,Went with another company
+L080,C040,2025-02-25,Aluminum,Lost,Timing
+L081,C032,2026-09-19,Vinyl privacy,Won,
+L082,C014,2026-06-14,Aluminum,Won,
+L083,C008,2025-10-23,Aluminum,Quoted,
+L084,C034,2025-11-17,Aluminum,Won,
+L085,C039,2025-03-03,Vinyl privacy,Won,
+L086,C014,2025-05-26,Vinyl privacy,Lost,Price
+L087,C001,2026-05-30,Chain link,Lost,Timing
+L088,C035,2025-08-29,Gate/post repair,Won,
+L089,C023,2025-03-20,Gate/post repair,Won,
+L090,C003,2026-03-28,Wood privacy,Won,
+L091,C021,2026-08-18,Aluminum,Won,
+L092,C041,2026-03-09,Aluminum,Won,
+L093,C002,2025-12-04,Steel,Won,
+L094,C030,2026-01-11,Wood privacy,Won,
+L095,C016,2026-03-28,Wood privacy,Quoted,
+L096,C026,2025-11-19,Vinyl privacy,Lost,Went with another company
+L097,C005,2026-06-12,Steel,Quoted,
+L098,C013,2025-12-29,Gate/post repair,Won,
+L099,C010,2025-09-04,Vinyl privacy,Won,
+L100,C013,2025-07-02,Wood privacy,Quoted,
+L101,C012,2026-10-11,Steel,Won,
+L102,C038,2026-04-10,Gate/post repair,Quoted,
+L103,C041,2026-10-07,Gate/post repair,Won,
+L104,C021,2025-06-09,Aluminum,Won,
+L105,C029,2026-10-14,Vinyl privacy,Won,
+L106,C038,2025-03-04,Wood privacy,Won,
+L107,C020,2026-04-23,Wood privacy,Won,
+L108,C024,2025-10-26,Wood privacy,Won,
+L109,C040,2026-09-06,Aluminum,Won,
+L110,C038,2026-07-27,Wood privacy,Quoted,
+L111,C029,2026-08-14,Steel,Lost,Timing
+L112,C033,2025-06-09,Wood privacy,Lost,No response
+L113,C006,2026-06-06,Chain link,Lost,Timing
+L114,C029,2026-06-26,Chain link,Won,
+L115,C024,2026-01-22,Aluminum,Lost,No response
+L116,C044,2026-09-10,Gate/post repair,Won,
+L117,C042,2025-12-14,Wood privacy,Won,
+L118,C036,2026-02-05,Gate/post repair,Won,
+L119,C043,2026-09-15,Wood privacy,Lost,Went with another company
+L120,C023,2025-11-19,Gate/post repair,Quoted,
+L121,C026,2025-05-18,Vinyl privacy,Lost,Timing
+L122,C042,2025-12-08,Gate/post repair,Quoted,
+L123,C044,2026-06-29,Gate/post repair,Won,
+L124,C028,2026-06-10,Vinyl privacy,Won,
+L125,C020,2025-07-09,Aluminum,Lost,Went with another company
+L126,C015,2025-05-26,Vinyl privacy,Won,
